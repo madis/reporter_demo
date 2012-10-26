@@ -1,0 +1,7 @@
+{
+	"name": "AnuSaagim",
+	"version": "0.1.2",
+	"dependencies": {
+		"reporter": "git+ssh://git@bitbucket.org:madisn/reporter.git"
+	}
+}
